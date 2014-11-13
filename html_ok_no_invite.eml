@@ -1,0 +1,230 @@
+Return-path: <3cuRkVAkJB3cmjZtXjcZibhVdg.XjhjpogjjfYZq.Wgjnnjh-fX.Xjh@calendar-server.bounces.google.com>
+Envelope-to: outlook@dev.blossom-kc.com
+Delivery-date: Thu, 13 Nov 2014 19:04:18 +0200
+Received: from mail-ee0-f74.google.com ([74.125.83.74])
+	by blossom-elearning.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <3cuRkVAkJB3cmjZtXjcZibhVdg.XjhjpogjjfYZq.Wgjnnjh-fX.Xjh@calendar-server.bounces.google.com>)
+	id 1Xoxog-0001YR-Gq
+	for outlook@dev.blossom-kc.com; Thu, 13 Nov 2014 19:04:18 +0200
+Received: by mail-ee0-f74.google.com with SMTP id d17so1351636eek.3
+        for <outlook@dev.blossom-kc.com>; Thu, 13 Nov 2014 09:03:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:reply-to:sender:auto-submitted:message-id:date:subject
+         :from:to:content-type;
+        bh=Sob9fecre6mFFBezPubpFlF0/N3Sskc4paSwIItXYEA=;
+        b=Qyxi8Ie9PIeu7C5LmISdKMk56Dej1FqqYeU6zsl0JCltiQWt1bgkhAL5EJkxrvM2gx
+         Yx86pjfgFx3xSh5Lbsm0ptdXXWTYl1klREBw+0V9gMMaqdoVGXV2eHOAXQl5nF4hRzfo
+         5aeKXcsnmFbX8r6xUmckogi38/xlktXexz6cMgHLwwmj2CpzoNmN42idtuen6zg7fsWQ
+         lt0cowSzpc6bBs1OK5cVVddBNIp6kO4LUwNRcrNwCF6fVooDF/5WFd1vCfWZbcKL9qsk
+         OlL4mLgDxnJkT9z13EXnYAOrvbqRfkhsSmasqxD8crks/DVhpkwFYrgKDL7gnkfainus
+         NzPw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:reply-to:sender:auto-submitted:message-id:date:subject
+         :from:to:content-type;
+        bh=Sob9fecre6mFFBezPubpFlF0/N3Sskc4paSwIItXYEA=;
+        b=Lf9x6b3PL2CB9xfko1CE/VteAtlMo5ZMpB78dp0tkmKZ4TQeZcVLKqVWUOQrirgDbR
+         HBvmXbFz4sQxXCigDoMg0JecfnHTCJfZIZJvVM5OJWFs0dv8rIRTQPa6cMvtygWlMTkK
+         T8NDM8w3KD93HnTohV1+tdF2IvVh6J1RVQt8wcdA4G3B1C677hpV5oSxFocZE2VdQclV
+         wI+7oZJaleCwr13+o6r3fepYYS5ElPUsmdBgBDmNdFJBMKwcgUCDzVXnasDNKB+VQyB+
+         kjvcyJAvKpds0TrUlsBl8ZWjcRQawA3jJfj7V5uMERj2+GzuyKmOjCdgUFd8m2r+pzqf
+         Cc+g==
+MIME-Version: 1.0
+X-Received: by 10.112.29.52 with SMTP id g20mr4390742lbh.7.1415898226814; Thu,
+ 13 Nov 2014 09:03:46 -0800 (PST)
+Reply-To: "roeycohen@gmail.com" <roeycohen@gmail.com>
+Sender: Google Calendar <calendar-notification@google.com>
+Auto-Submitted: auto-generated
+Message-ID: <001a1133ecb4d8f5d70507c07e0d@google.com>
+Date: Thu, 13 Nov 2014 17:03:46 +0000
+Subject: Invitation: dang outlook! @ Thu Nov 13, 2014 11:00 - 12:00 (Roey Cohen)
+From: Roey Cohen <roeycohen@gmail.com>
+To: "outlook@dev.blossom-kc.com" <outlook@dev.blossom-kc.com>
+Content-Type: multipart/mixed; boundary=001a1133ecb4d8f5b20507c07e0c
+
+--001a1133ecb4d8f5b20507c07e0c
+Content-Type: multipart/alternative; boundary=001a1133ecb4d8f5a70507c07e0a
+
+--001a1133ecb4d8f5a70507c07e0a
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+
+You have been invited to the following event.
+
+Title: dang outlook!
+When: Thu Nov 13, 2014 11:00 - 12:00 Jerusalem
+Calendar: Roey Cohen
+Who:
+     * Roey Cohen - organizer
+     * outlook@dev.blossom-kc.com
+
+Event details:  
+https://www.google.com/calendar/event?action=VIEW&eid=NGZjN29uMWNxMTVpdTYzZWFkNWRra2wwNTggb3V0bG9va0BkZXYuYmxvc3NvbS1rYy5jb20&tok=MTkjcm9leWNvaGVuQGdtYWlsLmNvbWI3MTk1NWI0N2EyNzUzNzgzNjVkZjBlMWRlMjgyOWFlZmQ1ZDJkMmY&ctz=Asia/Jerusalem&hl=en
+
+Invitation from Google Calendar: https://www.google.com/calendar/
+
+You are receiving this courtesy email at the account  
+outlook@dev.blossom-kc.com because you are an attendee of this event.
+
+To stop receiving future updates for this event, decline this event.  
+Alternatively you can sign up for a Google account at  
+https://www.google.com/calendar/ and control your notification settings for  
+your entire calendar.
+
+--001a1133ecb4d8f5a70507c07e0a
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D""><table cellspacing=3D"0" cellpadding=3D"8" border=3D"0" sum=
+mary=3D"" style=3D"width:100%;font-family:Arial,Sans-serif;border:1px Solid=
+ #ccc;border-width:1px 2px 2px 1px;background-color:#fff;" itemscope itemty=
+pe=3D"http://schema.org/Event"><tr><td><meta itemprop=3D"eventStatus" conte=
+nt=3D"http://schema.org/EventScheduled"/><div style=3D"padding:2px"><span i=
+temprop=3D"publisher" itemscope itemtype=3D"http://schema.org/Organization"=
+><meta itemprop=3D"name" content=3D"Google Calendar"/></span><meta itemprop=
+=3D"eventId/googleCalendar" content=3D"4fc7on1cq15iu63ead5dkkl058"/><div st=
+yle=3D"float:right;font-weight:bold;font-size:13px"> <a href=3D"https://www=
+.google.com/calendar/event?action=3DVIEW&amp;eid=3DNGZjN29uMWNxMTVpdTYzZWFk=
+NWRra2wwNTggb3V0bG9va0BkZXYuYmxvc3NvbS1rYy5jb20&amp;tok=3DMTkjcm9leWNvaGVuQ=
+GdtYWlsLmNvbWI3MTk1NWI0N2EyNzUzNzgzNjVkZjBlMWRlMjgyOWFlZmQ1ZDJkMmY&amp;ctz=
+=3DAsia/Jerusalem&amp;hl=3Den" style=3D"color:#20c;white-space:nowrap" item=
+prop=3D"url">more details &raquo;</a><br></div><h3 style=3D"padding:0 0 6px=
+ 0;margin:0;font-family:Arial,Sans-serif;font-size:16px;font-weight:bold;co=
+lor:#222"><span itemprop=3D"name">dang outlook!</span></h3><table cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" summary=3D"Event details"><tr><td s=
+tyle=3D"padding:0 1em 10px 0;font-family:Arial,Sans-serif;font-size:13px;co=
+lor:#888;white-space:nowrap" valign=3D"top"><div><i style=3D"font-style:nor=
+mal">When</i></div></td><td style=3D"padding-bottom:10px;font-family:Arial,=
+Sans-serif;font-size:13px;color:#222" valign=3D"top"><time itemprop=3D"star=
+tDate" datetime=3D"20141113T090000Z"></time><time itemprop=3D"endDate" date=
+time=3D"20141113T100000Z"></time>Thu Nov 13, 2014 11:00 &ndash; 12:00 <span=
+ style=3D"color:#888">Jerusalem</span></td></tr><tr><td style=3D"padding:0 =
+1em 10px 0;font-family:Arial,Sans-serif;font-size:13px;color:#888;white-spa=
+ce:nowrap" valign=3D"top"><div><i style=3D"font-style:normal">Calendar</i><=
+/div></td><td style=3D"padding-bottom:10px;font-family:Arial,Sans-serif;fon=
+t-size:13px;color:#222" valign=3D"top">Roey Cohen</td></tr><tr><td style=3D=
+"padding:0 1em 10px 0;font-family:Arial,Sans-serif;font-size:13px;color:#88=
+8;white-space:nowrap" valign=3D"top"><div><i style=3D"font-style:normal">Wh=
+o</i></div></td><td style=3D"padding-bottom:10px;font-family:Arial,Sans-ser=
+if;font-size:13px;color:#222" valign=3D"top"><table cellspacing=3D"0" cellp=
+adding=3D"0"><tr><td style=3D"padding-right:10px;font-family:Arial,Sans-ser=
+if;font-size:13px;color:#222"><span style=3D"font-family:Courier New,monosp=
+ace">&#x2022;</span></td><td style=3D"padding-right:10px;font-family:Arial,=
+Sans-serif;font-size:13px;color:#222"><div><div style=3D"margin:0 0 0.3em 0=
+"><span itemprop=3D"attendee" itemscope itemtype=3D"http://schema.org/Perso=
+n"><span itemprop=3D"name">Roey Cohen</span><meta itemprop=3D"email" conten=
+t=3D"roeycohen@gmail.com"/></span><span style=3D"font-size:11px;color:#888"=
+> - organizer</span></div></div></td></tr><tr><td style=3D"padding-right:10=
+px;font-family:Arial,Sans-serif;font-size:13px;color:#222"><span style=3D"f=
+ont-family:Courier New,monospace">&#x2022;</span></td><td style=3D"padding-=
+right:10px;font-family:Arial,Sans-serif;font-size:13px;color:#222"><div><di=
+v style=3D"margin:0 0 0.3em 0"><span itemprop=3D"attendee" itemscope itemty=
+pe=3D"http://schema.org/Person"><span itemprop=3D"name">outlook@dev.blossom=
+-kc.com</span><meta itemprop=3D"email" content=3D"outlook@dev.blossom-kc.co=
+m"/></span></div></div></td></tr></table></td></tr></table></div><p style=
+=3D"color:#222;font-size:13px;margin:0"><span style=3D"color:#888">Going?&n=
+bsp;&nbsp;&nbsp;</span><wbr><strong><span itemprop=3D"action" itemscope ite=
+mtype=3D"http://schema.org/RsvpAction"><meta itemprop=3D"attendance" conten=
+t=3D"http://schema.org/RsvpAttendance/Yes"/><span itemprop=3D"handler" item=
+scope itemtype=3D"http://schema.org/HttpActionHandler"><link itemprop=3D"me=
+thod" href=3D"http://schema.org/HttpRequestMethod/GET"/><a href=3D"https://=
+www.google.com/calendar/event?action=3DRESPOND&amp;eid=3DNGZjN29uMWNxMTVpdT=
+YzZWFkNWRra2wwNTggb3V0bG9va0BkZXYuYmxvc3NvbS1rYy5jb20&amp;rst=3D1&amp;tok=
+=3DMTkjcm9leWNvaGVuQGdtYWlsLmNvbWI3MTk1NWI0N2EyNzUzNzgzNjVkZjBlMWRlMjgyOWFl=
+ZmQ1ZDJkMmY&amp;ctz=3DAsia/Jerusalem&amp;hl=3Den" style=3D"color:#20c;white=
+-space:nowrap" itemprop=3D"url">Yes</a></span></span><span style=3D"margin:=
+0 0.4em;font-weight:normal"> - </span><span itemprop=3D"action" itemscope i=
+temtype=3D"http://schema.org/RsvpAction"><meta itemprop=3D"attendance" cont=
+ent=3D"http://schema.org/RsvpAttendance/Maybe"/><span itemprop=3D"handler" =
+itemscope itemtype=3D"http://schema.org/HttpActionHandler"><link itemprop=
+=3D"method" href=3D"http://schema.org/HttpRequestMethod/GET"/><a href=3D"ht=
+tps://www.google.com/calendar/event?action=3DRESPOND&amp;eid=3DNGZjN29uMWNx=
+MTVpdTYzZWFkNWRra2wwNTggb3V0bG9va0BkZXYuYmxvc3NvbS1rYy5jb20&amp;rst=3D3&amp=
+;tok=3DMTkjcm9leWNvaGVuQGdtYWlsLmNvbWI3MTk1NWI0N2EyNzUzNzgzNjVkZjBlMWRlMjgy=
+OWFlZmQ1ZDJkMmY&amp;ctz=3DAsia/Jerusalem&amp;hl=3Den" style=3D"color:#20c;w=
+hite-space:nowrap" itemprop=3D"url">Maybe</a></span></span><span style=3D"m=
+argin:0 0.4em;font-weight:normal"> - </span><span itemprop=3D"action" items=
+cope itemtype=3D"http://schema.org/RsvpAction"><meta itemprop=3D"attendance=
+" content=3D"http://schema.org/RsvpAttendance/No"/><span itemprop=3D"handle=
+r" itemscope itemtype=3D"http://schema.org/HttpActionHandler"><link itempro=
+p=3D"method" href=3D"http://schema.org/HttpRequestMethod/GET"/><a href=3D"h=
+ttps://www.google.com/calendar/event?action=3DRESPOND&amp;eid=3DNGZjN29uMWN=
+xMTVpdTYzZWFkNWRra2wwNTggb3V0bG9va0BkZXYuYmxvc3NvbS1rYy5jb20&amp;rst=3D2&am=
+p;tok=3DMTkjcm9leWNvaGVuQGdtYWlsLmNvbWI3MTk1NWI0N2EyNzUzNzgzNjVkZjBlMWRlMjg=
+yOWFlZmQ1ZDJkMmY&amp;ctz=3DAsia/Jerusalem&amp;hl=3Den" style=3D"color:#20c;=
+white-space:nowrap" itemprop=3D"url">No</a></span></span></strong>&nbsp;&nb=
+sp;&nbsp;&nbsp;<wbr><a href=3D"https://www.google.com/calendar/event?action=
+=3DVIEW&amp;eid=3DNGZjN29uMWNxMTVpdTYzZWFkNWRra2wwNTggb3V0bG9va0BkZXYuYmxvc=
+3NvbS1rYy5jb20&amp;tok=3DMTkjcm9leWNvaGVuQGdtYWlsLmNvbWI3MTk1NWI0N2EyNzUzNz=
+gzNjVkZjBlMWRlMjgyOWFlZmQ1ZDJkMmY&amp;ctz=3DAsia/Jerusalem&amp;hl=3Den" sty=
+le=3D"color:#20c;white-space:nowrap" itemprop=3D"url">more options &raquo;<=
+/a></p></td></tr><tr><td style=3D"background-color:#f6f6f6;color:#888;borde=
+r-top:1px Solid #ccc;font-family:Arial,Sans-serif;font-size:11px"><p>Invita=
+tion from <a href=3D"https://www.google.com/calendar/" target=3D"_blank" st=
+yle=3D"">Google Calendar</a></p><p>You are receiving this courtesy email at=
+ the account outlook@dev.blossom-kc.com because you are an attendee of this=
+ event.</p><p>To stop receiving future updates for this event, decline this=
+ event. Alternatively you can sign up for a Google account at https://www.g=
+oogle.com/calendar/ and control your notification settings for your entire =
+calendar.</p></td></tr></table></div>
+--001a1133ecb4d8f5a70507c07e0a
+Content-Type: text/calendarZ; charset=UTF-8; method=REQUEST
+Content-Transfer-Encoding: 7bit
+
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20141113T090000Z
+DTEND:20141113T100000Z
+DTSTAMP:20141113T170346Z
+ORGANIZER;CN=Roey Cohen:mailto:roeycohen@gmail.com
+UID:4fc7on1cq15iu63ead5dkkl058@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Roey Cohen;X-NUM-GUESTS=0:mailto:roeycohen@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=outlook@dev.blossom-kc.com;X-NUM-GUESTS=0:mailto:outlook@dev.blosso
+ m-kc.com
+CREATED:20141113T170346Z
+DESCRIPTION:View your event at https://www.google.com/calendar/event?action
+ =VIEW&eid=NGZjN29uMWNxMTVpdTYzZWFkNWRra2wwNTggb3V0bG9va0BkZXYuYmxvc3NvbS1rY
+ y5jb20&tok=MTkjcm9leWNvaGVuQGdtYWlsLmNvbWI3MTk1NWI0N2EyNzUzNzgzNjVkZjBlMWRl
+ MjgyOWFlZmQ1ZDJkMmY&ctz=Asia/Jerusalem&hl=en.
+LAST-MODIFIED:20141113T170346Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:dang outlook!
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
+
+--001a1133ecb4d8f5a70507c07e0a--
+--001a1133ecb4d8f5b20507c07e0c
+Content-Type: application/ics2; name="invite.ics"
+Content-Disposition: attachment; filename="invite.ics"
+Content-Transfer-Encoding: base64
+
+QkVHSU46VkNBTEVOREFSDQpQUk9ESUQ6LS8vR29vZ2xlIEluYy8vR29vZ2xlIENhbGVuZGFyIDcw
+LjkwNTQvL0VODQpWRVJTSU9OOjIuMA0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6UkVRVUVT
+VA0KQkVHSU46VkVWRU5UDQpEVFNUQVJUOjIwMTQxMTEzVDA5MDAwMFoNCkRURU5EOjIwMTQxMTEz
+VDEwMDAwMFoNCkRUU1RBTVA6MjAxNDExMTNUMTcwMzQ2Wg0KT1JHQU5JWkVSO0NOPVJvZXkgQ29o
+ZW46bWFpbHRvOnJvZXljb2hlbkBnbWFpbC5jb20NClVJRDo0ZmM3b24xY3ExNWl1NjNlYWQ1ZGtr
+bDA1OEBnb29nbGUuY29tDQpBVFRFTkRFRTtDVVRZUEU9SU5ESVZJRFVBTDtST0xFPVJFUS1QQVJU
+SUNJUEFOVDtQQVJUU1RBVD1BQ0NFUFRFRDtSU1ZQPVRSVUUNCiA7Q049Um9leSBDb2hlbjtYLU5V
+TS1HVUVTVFM9MDptYWlsdG86cm9leWNvaGVuQGdtYWlsLmNvbQ0KQVRURU5ERUU7Q1VUWVBFPUlO
+RElWSURVQUw7Uk9MRT1SRVEtUEFSVElDSVBBTlQ7UEFSVFNUQVQ9TkVFRFMtQUNUSU9OO1JTVlA9
+DQogVFJVRTtDTj1vdXRsb29rQGRldi5ibG9zc29tLWtjLmNvbTtYLU5VTS1HVUVTVFM9MDptYWls
+dG86b3V0bG9va0BkZXYuYmxvc3NvDQogbS1rYy5jb20NCkNSRUFURUQ6MjAxNDExMTNUMTcwMzQ2
+Wg0KREVTQ1JJUFRJT046VmlldyB5b3VyIGV2ZW50IGF0IGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20v
+Y2FsZW5kYXIvZXZlbnQ/YWN0aW9uDQogPVZJRVcmZWlkPU5HWmpOMjl1TVdOeE1UVnBkVFl6WldG
+a05XUnJhMnd3TlRnZ2IzVjBiRzl2YTBCa1pYWXVZbXh2YzNOdmJTMXJZDQogeTVqYjIwJnRvaz1N
+VGtqY205bGVXTnZhR1Z1UUdkdFlXbHNMbU52YldJM01UazFOV0kwTjJFeU56VXpOemd6TmpWa1pq
+QmxNV1JsDQogTWpneU9XRmxabVExWkRKa01tWSZjdHo9QXNpYS9KZXJ1c2FsZW0maGw9ZW4uDQpM
+QVNULU1PRElGSUVEOjIwMTQxMTEzVDE3MDM0NloNCkxPQ0FUSU9OOg0KU0VRVUVOQ0U6MA0KU1RB
+VFVTOkNPTkZJUk1FRA0KU1VNTUFSWTpkYW5nIG91dGxvb2shDQpUUkFOU1A6T1BBUVVFDQpFTkQ6
+VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=
+--001a1133ecb4d8f5b20507c07e0c--
